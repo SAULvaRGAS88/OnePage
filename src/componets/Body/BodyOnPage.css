@@ -1,0 +1,13 @@
+p {
+    font-family: fantasy;
+    font-size: 14px;
+    font-weight: bold;
+}
+span{
+    color: red;
+}
+
+a{
+    cursor: pointer;
+    color: blue;
+}
